@@ -47,7 +47,6 @@ export default defineConfig({
           { text: '第1章：安装与环境配置', link: '/part1/chapter1/' },
           { text: '第2章：浏览器能力解锁', link: '/part1/chapter2/' },
           { text: '第6章：进阶玩法', link: '/part1/chapter6/' }
-          }
         ]
       },
       {
