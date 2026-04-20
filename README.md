@@ -8,14 +8,13 @@
 
 <p><em>从安装到原理，全面掌握以"上下文信息密度最大化"为核心的 Generic Agent</em></p>
 
-<p>🔗 <a href="https://github.com/lsdefine/GenericAgent"><strong>Generic Agent 主仓库</strong></a><br>如果 GA 有帮助到你，别忘了给 GA 点一个 Star ⭐</p>
+<p>📌 <a href="https://github.com/lsdefine/GenericAgent"><strong>Generic Agent 主仓库</strong></a> · 如果 GA 有帮助到你，别忘了给 GA 点一个 Star ⭐</p>
 
 <img src="https://img.shields.io/github/stars/datawhalechina/hello-generic-agent?style=flat&logo=github" alt="GitHub stars"/>
 <img src="https://img.shields.io/github/forks/datawhalechina/hello-generic-agent?style=flat&logo=github" alt="GitHub forks"/>
 <img src="https://img.shields.io/badge/language-Chinese-brightgreen?style=flat" alt="Language"/>
 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" alt="License"/></a>
 <a href="https://aspaszhang.github.io/hello-generic-agent/"><img src="https://img.shields.io/badge/在线阅读-Online%20Reading-green?style=flat&logo=gitbook" alt="Online Reading"></a>
-<a href="https://github.com/lsdefine/GenericAgent"><img src="https://img.shields.io/badge/GA%20主仓库-GenericAgent-blue?style=flat&logo=github" alt="GenericAgent"></a>
 
 </div>
 
